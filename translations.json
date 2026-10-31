@@ -1,0 +1,2810 @@
+[
+ {
+  "en": "Toggle Navigation",
+  "zh": "切换导航"
+ },
+ {
+  "en": "Shader Compilation Stutter Killer",
+  "zh": "着色器编译卡顿终结者"
+ },
+ {
+  "en": "Restart to update",
+  "zh": "重启以更新"
+ },
+ {
+  "en": "Notifications",
+  "zh": "通知"
+ },
+ {
+  "en": "Library",
+  "zh": "游戏库"
+ },
+ {
+  "en": "Compile queue",
+  "zh": "编译队列"
+ },
+ {
+  "en": "Cache",
+  "zh": "缓存"
+ },
+ {
+  "en": "Settings",
+  "zh": "设置"
+ },
+ {
+  "en": "About",
+  "zh": "关于"
+ },
+ {
+  "en": "Save image",
+  "zh": "保存图片"
+ },
+ {
+  "en": "Copy image",
+  "zh": "复制图片"
+ },
+ {
+  "en": "Share",
+  "zh": "分享"
+ },
+ {
+  "en": "Post on X",
+  "zh": "发到 X"
+ },
+ {
+  "en": "Post on Reddit",
+  "zh": "发到 Reddit"
+ },
+ {
+  "en": "Copy for Discord",
+  "zh": "复制用于 Discord"
+ },
+ {
+  "en": "Copy text",
+  "zh": "复制文本"
+ },
+ {
+  "en": "Before",
+  "zh": "编译前"
+ },
+ {
+  "en": "After",
+  "zh": "编译后"
+ },
+ {
+  "en": "shader compilation stutter",
+  "zh": "着色器编译卡顿"
+ },
+ {
+  "en": "other hitch",
+  "zh": "其他卡顿"
+ },
+ {
+  "en": "Show my GPU on the image",
+  "zh": "在图片上显示我的 GPU"
+ },
+ {
+  "en": "Record the after run again",
+  "zh": "重新录制对照"
+ },
+ {
+  "en": "Start over",
+  "zh": "重新开始"
+ },
+ {
+  "en": "Check for updates",
+  "zh": "检查更新"
+ },
+ {
+  "en": "Install updates automatically",
+  "zh": "自动安装更新"
+ },
+ {
+  "en": "A downloaded update installs the next time SCSKiller starts or quits, never during a compile, an offline session or a game. Off: only Restart to update installs it.",
+  "zh": "已下载的更新会在 SCSKiller 下次启动或退出时安装，绝不会在编译、离线会话或游戏运行期间安装。关闭后，只有“重启以更新”会安装它。"
+ },
+ {
+  "en": "Download source code",
+  "zh": "下载源代码"
+ },
+ {
+  "en": "Compiles your games' shaders into the graphics driver's cache ahead of time, so they don't stutter the first time you play them.",
+  "zh": "提前把游戏内的着色器编译进显卡驱动的缓存，让你第一次游玩时不再卡顿。"
+ },
+ {
+  "en": "SCSKiller licence:",
+  "zh": "SCSKiller 许可证："
+ },
+ {
+  "en": " GPL-3.0-or-later, with an additional permission for Oodle, the Windows App SDK and graphics driver libraries (LICENSE-EXCEPTION.txt)",
+  "zh": " GPL-3.0-or-later，并对 Oodle、Windows App SDK 和显卡驱动库附加例外许可（LICENSE-EXCEPTION.txt）"
+ },
+ {
+  "en": "What's new",
+  "zh": "更新内容"
+ },
+ {
+  "en": "Website",
+  "zh": "官方网站"
+ },
+ {
+  "en": "Source code",
+  "zh": "源代码"
+ },
+ {
+  "en": "Support on Patreon",
+  "zh": "在 Patreon 上支持"
+ },
+ {
+  "en": "Problem reports you sent",
+  "zh": "你发送的问题报告"
+ },
+ {
+  "en": "Reports sent from earlier versions aren't listed.",
+  "zh": "更早版本发送的报告不会列在这里。"
+ },
+ {
+  "en": "Use at your own risk",
+  "zh": "风险自负"
+ },
+ {
+  "en": "SCSKiller is provided as is, without warranty. It checks each game for anti-cheat before adding its recorder, but that check can miss one. You use it at your own risk, and its authors are not responsible for bans, crashes or lost data.",
+  "zh": "SCSKiller 按现状提供，不附带任何担保。它在为游戏添加录制器之前会检查反作弊，但该检查可能漏检。使用风险自负，作者不对封号、崩溃或数据丢失负责。"
+ },
+ {
+  "en": "Trademarks",
+  "zh": "商标"
+ },
+ {
+  "en": "Third-party components",
+  "zh": "第三方组件"
+ },
+ {
+  "en": "Open one to read its licence. The same list, with notes, is in THIRD-PARTY-NOTICES.md next to the app.",
+  "zh": "点击任意一项可查看其许可证。带说明的同一列表位于程序目录下的 THIRD-PARTY-NOTICES.md。"
+ },
+ {
+  "en": "Clear everything",
+  "zh": "全部清除"
+ },
+ {
+  "en": "Refresh",
+  "zh": "刷新"
+ },
+ {
+  "en": "Where the driver keeps its cache",
+  "zh": "驱动的缓存位置"
+ },
+ {
+  "en": "Games read their cache from here, and new caches are written here. The driver has no setting to move it.",
+  "zh": "游戏从这里读取缓存，新缓存也写在这里。驱动没有可以更改该位置的设置。"
+ },
+ {
+  "en": "SCSKiller doesn't know where this GPU's driver keeps its cache.",
+  "zh": "SCSKiller 不知道此 GPU 的驱动把缓存放在哪里。"
+ },
+ {
+  "en": "Open folder",
+  "zh": "打开文件夹"
+ },
+ {
+  "en": "Delete all",
+  "zh": "全部删除"
+ },
+ {
+  "en": "Delete",
+  "zh": "删除"
+ },
+ {
+  "en": "Rename…",
+  "zh": "重命名…"
+ },
+ {
+  "en": "The name SCSKiller shows for this game",
+  "zh": "SCSKiller 为此游戏显示的名称"
+ },
+ {
+  "en": "Game folder…",
+  "zh": "游戏文件夹…"
+ },
+ {
+  "en": "The folder SCSKiller checks for anti-cheat before it records this game",
+  "zh": "SCSKiller 在录制此游戏前检查反作弊所用的文件夹"
+ },
+ {
+  "en": "Game exe…",
+  "zh": "游戏 exe…"
+ },
+ {
+  "en": "Choose the exe SCSKiller compiles and records for",
+  "zh": "选择 SCSKiller 编译和录制所用的 exe"
+ },
+ {
+  "en": "Auto exe",
+  "zh": "自动选择 exe"
+ },
+ {
+  "en": "Go back to the exe SCSKiller picks",
+  "zh": "回到 SCSKiller 自动选择的 exe"
+ },
+ {
+  "en": "Open the folder of the game's exe",
+  "zh": "打开游戏 exe 所在的文件夹"
+ },
+ {
+  "en": "Remove from library",
+  "zh": "从游戏库移除"
+ },
+ {
+  "en": "Playing now",
+  "zh": "正在游玩"
+ },
+ {
+  "en": "Keep Windows from clearing compiled shaders",
+  "zh": "阻止 Windows 清除已编译的着色器"
+ },
+ {
+  "en": "Clear it",
+  "zh": "清除"
+ },
+ {
+  "en": "Compile progress",
+  "zh": "编译进度"
+ },
+ {
+  "en": "Why?",
+  "zh": "为什么？"
+ },
+ {
+  "en": "Set AES key",
+  "zh": "设置 AES 密钥"
+ },
+ {
+  "en": "Change AES key",
+  "zh": "更改 AES 密钥"
+ },
+ {
+  "en": "Remove AES key",
+  "zh": "移除 AES 密钥"
+ },
+ {
+  "en": "Set game key",
+  "zh": "设置游戏密钥"
+ },
+ {
+  "en": "Re-read this game's cache size, recording and last session",
+  "zh": "重新读取此游戏的缓存大小、录制与上次会话"
+ },
+ {
+  "en": "Rate this compile",
+  "zh": "评价本次编译"
+ },
+ {
+  "en": "Report a problem",
+  "zh": "报告问题"
+ },
+ {
+  "en": "Send the SCSKiller team what went wrong with this game",
+  "zh": "向 SCSKiller 团队反馈此游戏的问题"
+ },
+ {
+  "en": "Max compile",
+  "zh": "最大编译"
+ },
+ {
+  "en": "Compiles every combination of this game's shaders, once",
+  "zh": "一次性编译此游戏着色器的所有组合"
+ },
+ {
+  "en": "Compile again",
+  "zh": "重新编译"
+ },
+ {
+  "en": "How it works",
+  "zh": "工作原理"
+ },
+ {
+  "en": "Cancel the before and after recording",
+  "zh": "取消对照录制"
+ },
+ {
+  "en": "Paste into the game's Steam launch options:",
+  "zh": "粘贴到游戏的 Steam 启动选项中："
+ },
+ {
+  "en": "Copy the launch options",
+  "zh": "复制启动选项"
+ },
+ {
+  "en": "Already set in Steam",
+  "zh": "已在 Steam 中设置"
+ },
+ {
+  "en": "Stutters without a compile",
+  "zh": "未编译时会卡顿"
+ },
+ {
+  "en": "No shader stutter",
+  "zh": "无着色器卡顿"
+ },
+ {
+  "en": "The DirectX SCSKiller compiles for. Auto uses the detected one.",
+  "zh": "SCSKiller 编译时使用的 DirectX 版本。自动即使用检测到的版本。"
+ },
+ {
+  "en": "Turn on recording",
+  "zh": "开启录制"
+ },
+ {
+  "en": "Shader coverage",
+  "zh": "着色器覆盖率"
+ },
+ {
+  "en": "Shaders in the game",
+  "zh": "游戏内的着色器"
+ },
+ {
+  "en": "Where the shaders come from",
+  "zh": "着色器来源"
+ },
+ {
+  "en": "Details",
+  "zh": "详情"
+ },
+ {
+  "en": "Frame times last time you played",
+  "zh": "上次游玩的帧时间"
+ },
+ {
+  "en": "shader compile",
+  "zh": "着色器编译"
+ },
+ {
+  "en": "loading, quitting",
+  "zh": "加载、退出"
+ },
+ {
+  "en": "loading, compiling shaders",
+  "zh": "加载、编译着色器"
+ },
+ {
+  "en": "Earlier sessions",
+  "zh": "更早的会话"
+ },
+ {
+  "en": "Slow frames",
+  "zh": "慢帧"
+ },
+ {
+  "en": "Careful compile",
+  "zh": "谨慎编译"
+ },
+ {
+  "en": "Kept aside",
+  "zh": "已备份"
+ },
+ {
+  "en": "When this game has new shaders",
+  "zh": "当此游戏有新着色器时"
+ },
+ {
+  "en": "Ray tracing shaders",
+  "zh": "光线追踪着色器"
+ },
+ {
+  "en": "Compile size limit",
+  "zh": "编译体积上限"
+ },
+ {
+  "en": "An estimate of what a compile adds. Recorded pipelines always compile and take part of it. Ray tracing doesn't count.",
+  "zh": "编译新增体积的估计值。录制的管线始终会编译并占其中一部分，光追不计入。"
+ },
+ {
+  "en": "Leave out of Add all ready",
+  "zh": "不参与“全部添加就绪”"
+ },
+ {
+  "en": "Record while I play",
+  "zh": "游玩时录制"
+ },
+ {
+  "en": "Use shared shader hashes",
+  "zh": "使用共享着色器哈希"
+ },
+ {
+  "en": "Follow Settings",
+  "zh": "跟随设置"
+ },
+ {
+  "en": "Ban risk",
+  "zh": "封号风险"
+ },
+ {
+  "en": "Always record",
+  "zh": "始终录制"
+ },
+ {
+  "en": "Records every launch without asking each time.",
+  "zh": "每次启动都录制，不再逐次询问。"
+ },
+ {
+  "en": "Traversal stutter fix (experimental)",
+  "zh": "移动卡顿修复（实验性）"
+ },
+ {
+  "en": "Clear recording",
+  "zh": "清除录制"
+ },
+ {
+  "en": "Ready in the game's own library",
+  "zh": "已就绪于游戏自带的库"
+ },
+ {
+  "en": "Ready in the driver cache",
+  "zh": "已就绪于驱动缓存"
+ },
+ {
+  "en": "Compiled during play",
+  "zh": "游玩时已编译"
+ },
+ {
+  "en": "Re-reads every game's cache size, recordings and status, and finds new games. Shift+click also re-checks every game's engine and anti-cheat (slower).",
+  "zh": "重新读取每个游戏的缓存大小、录制和状态，并查找新游戏。Shift+点击还会重新检查每个游戏的引擎和反作弊（较慢）。"
+ },
+ {
+  "en": "Add a game",
+  "zh": "添加游戏"
+ },
+ {
+  "en": "Add a game no store lists (another launcher, or a game in a folder of its own) by picking its .exe",
+  "zh": "选择 .exe 来添加商店未收录的游戏（其他启动器，或独立文件夹中的游戏）"
+ },
+ {
+  "en": "Add a game…",
+  "zh": "添加游戏…"
+ },
+ {
+  "en": "Game folders",
+  "zh": "游戏文件夹"
+ },
+ {
+  "en": "Folders of games no store lists: SCSKiller looks in them at every scan",
+  "zh": "商店未收录游戏的文件夹：SCSKiller 每次扫描都会查看"
+ },
+ {
+  "en": "Queue every game that stutters without a compile and is ready for one",
+  "zh": "把所有未编译会卡顿且可编译的游戏加入队列"
+ },
+ {
+  "en": "Shader cache",
+  "zh": "着色器缓存"
+ },
+ {
+  "en": "Free it",
+  "zh": "释放"
+ },
+ {
+  "en": "Free the cache the new driver no longer uses",
+  "zh": "释放新驱动不再使用的缓存"
+ },
+ {
+  "en": "Change",
+  "zh": "更改"
+ },
+ {
+  "en": "Change the driver shader cache size",
+  "zh": "更改驱动着色器缓存大小"
+ },
+ {
+  "en": "Compile speed",
+  "zh": "编译速度"
+ },
+ {
+  "en": "Change compile speed",
+  "zh": "更改编译速度"
+ },
+ {
+  "en": "Search by name, store or engine",
+  "zh": "按名称、商店或引擎搜索"
+ },
+ {
+  "en": "Search games",
+  "zh": "搜索游戏"
+ },
+ {
+  "en": "Clear",
+  "zh": "清除"
+ },
+ {
+  "en": "Clear search",
+  "zh": "清除搜索"
+ },
+ {
+  "en": "Show games by status",
+  "zh": "按状态显示游戏"
+ },
+ {
+  "en": "Show hidden",
+  "zh": "显示隐藏项"
+ },
+ {
+  "en": "Games you removed from the library",
+  "zh": "你从游戏库中移除的游戏"
+ },
+ {
+  "en": "Hidden games",
+  "zh": "隐藏的游戏"
+ },
+ {
+  "en": "Show in library",
+  "zh": "在游戏库中显示"
+ },
+ {
+  "en": "Sort by name",
+  "zh": "按名称排序"
+ },
+ {
+  "en": "Shaders",
+  "zh": "着色器"
+ },
+ {
+  "en": "Sort by pipelines",
+  "zh": "按管线数排序"
+ },
+ {
+  "en": "Sort by each game's driver and Windows shader cache",
+  "zh": "按各游戏的驱动缓存和 Windows 着色器缓存排序"
+ },
+ {
+  "en": "Time",
+  "zh": "时间"
+ },
+ {
+  "en": "Sort by status, as at first",
+  "zh": "按状态排序（恢复默认）"
+ },
+ {
+  "en": "Status",
+  "zh": "状态"
+ },
+ {
+  "en": "No games found",
+  "zh": "未找到游戏"
+ },
+ {
+  "en": "Games",
+  "zh": "游戏"
+ },
+ {
+  "en": "Record",
+  "zh": "录制"
+ },
+ {
+  "en": "After an update SCSKiller rebuilds the plans of compiled games in the background, without compiling. A game with more to compile shows it in the Library.",
+  "zh": "更新后，SCSKiller 会在后台重建已编译游戏的计划但不进行编译。还有内容待编译的游戏会在游戏库中显示。"
+ },
+ {
+  "en": "Compiles run outside the game, under the game's name. Keep the game closed while it runs.",
+  "zh": "编译在游戏进程之外以游戏名义运行。编译期间请保持游戏关闭。"
+ },
+ {
+  "en": "Stop",
+  "zh": "停止"
+ },
+ {
+  "en": "Finishes the compiles in flight, then stops. Add the game again to continue where it stopped.",
+  "zh": "完成正在进行的编译后停止。再次添加该游戏即可从断点继续。"
+ },
+ {
+  "en": "Raise the limit",
+  "zh": "提高上限"
+ },
+ {
+  "en": "Game (in run order)",
+  "zh": "游戏（按运行顺序）"
+ },
+ {
+  "en": "Ctrl+click or Shift+click to select several games",
+  "zh": "Ctrl+点击或 Shift+点击可选择多个游戏"
+ },
+ {
+  "en": "Remove selected",
+  "zh": "移除所选"
+ },
+ {
+  "en": "Clear queue",
+  "zh": "清空队列"
+ },
+ {
+  "en": "Removes every game but the one compiling",
+  "zh": "除正在编译的游戏外全部移除"
+ },
+ {
+  "en": "Add games from the Library",
+  "zh": "从游戏库添加游戏"
+ },
+ {
+  "en": "Press Add to queue on a game, then Compile queue.",
+  "zh": "在游戏上点击“加入队列”，然后点击“编译队列”。"
+ },
+ {
+  "en": "Open the Library",
+  "zh": "打开游戏库"
+ },
+ {
+  "en": "Stop and remove",
+  "zh": "停止并移除"
+ },
+ {
+  "en": "Handing compiles to the games' caches",
+  "zh": "正在把编译结果写入游戏缓存"
+ },
+ {
+  "en": "Waiting games",
+  "zh": "等待中的游戏"
+ },
+ {
+  "en": "Drag to reorder",
+  "zh": "拖动以排序"
+ },
+ {
+  "en": "Move to top",
+  "zh": "移到顶部"
+ },
+ {
+  "en": "Move to bottom",
+  "zh": "移到底部"
+ },
+ {
+  "en": "Move up",
+  "zh": "上移"
+ },
+ {
+  "en": "Move down",
+  "zh": "下移"
+ },
+ {
+  "en": "Remove",
+  "zh": "移除"
+ },
+ {
+  "en": "Finished",
+  "zh": "已完成"
+ },
+ {
+  "en": "Clear finished",
+  "zh": "清除已完成"
+ },
+ {
+  "en": "Finished games",
+  "zh": "已完成的游戏"
+ },
+ {
+  "en": "Compile threads",
+  "zh": "编译线程"
+ },
+ {
+  "en": "Priority",
+  "zh": "优先级"
+ },
+ {
+  "en": "Below normal: fastest, the PC stays usable",
+  "zh": "低于正常：最快，电脑仍可使用"
+ },
+ {
+  "en": "Idle only: runs when nothing else needs the CPU",
+  "zh": "仅空闲：CPU 无事可做时才运行"
+ },
+ {
+  "en": "Current limit",
+  "zh": "当前上限"
+ },
+ {
+  "en": "Used now",
+  "zh": "当前已用"
+ },
+ {
+  "en": "New limit",
+  "zh": "新的上限"
+ },
+ {
+  "en": "Apply (needs administrator)",
+  "zh": "应用（需要管理员权限）"
+ },
+ {
+  "en": "You can switch back to the driver default here at any time.",
+  "zh": "你随时可以在这里切回驱动默认值。"
+ },
+ {
+  "en": "AMD DirectX 12 cache use",
+  "zh": "AMD DirectX 12 缓存占用"
+ },
+ {
+  "en": "Keep compiled caches aside",
+  "zh": "另存已编译缓存的备份"
+ },
+ {
+  "en": "Puts a game's compiled cache back after the driver removes it.",
+  "zh": "驱动删除游戏的已编译缓存后将其放回。"
+ },
+ {
+  "en": "Manage…",
+  "zh": "管理…"
+ },
+ {
+  "en": "Windows' automatic disk cleanup",
+  "zh": "Windows 自动磁盘清理"
+ },
+ {
+  "en": "Storage Sense can delete the DirectX shader cache.",
+  "zh": "存储感知可能删除 DirectX 着色器缓存。"
+ },
+ {
+  "en": "After a driver update",
+  "zh": "驱动更新之后"
+ },
+ {
+  "en": "A new driver throws away every compiled shader, so compiled games stutter again until they are rebuilt.",
+  "zh": "新驱动会丢弃所有已编译着色器，已编译的游戏会再次卡顿，直到重新编译。"
+ },
+ {
+  "en": "When to rebuild",
+  "zh": "何时重建"
+ },
+ {
+  "en": "Ask me",
+  "zh": "询问我"
+ },
+ {
+  "en": "Automatically, only while the PC is idle",
+  "zh": "自动，仅在电脑空闲时"
+ },
+ {
+  "en": "Automatically, right away",
+  "zh": "自动，立即开始"
+ },
+ {
+  "en": "Starts at once and pauses while a game runs.",
+  "zh": "立即开始，游戏运行时暂停。"
+ },
+ {
+  "en": "Off",
+  "zh": "关闭"
+ },
+ {
+  "en": "Rebuild games yourself from the Library.",
+  "zh": "由你自行在游戏库中重建。"
+ },
+ {
+  "en": "When games have new shaders",
+  "zh": "当游戏有新着色器时"
+ },
+ {
+  "en": "A compiled game gains pipelines from its recording, the shared shader hashes or an SCSKiller update. Never while you play.",
+  "zh": "已编译的游戏会从录制、共享着色器哈希或 SCSKiller 更新中获得新管线。绝不在你游玩时进行。"
+ },
+ {
+  "en": "Compile games yourself from the Library.",
+  "zh": "由你自行在游戏库中编译。"
+ },
+ {
+  "en": "Notify me",
+  "zh": "通知我"
+ },
+ {
+  "en": "A notification offers Compile now. Nothing starts on its own.",
+  "zh": "通知中提供“立即编译”。不会自动开始。"
+ },
+ {
+  "en": "Compile automatically and notify me",
+  "zh": "自动编译并通知我"
+ },
+ {
+  "en": "Compiles while the PC is idle and tells you it's queued.",
+  "zh": "电脑空闲时编译，并告知你已加入队列。"
+ },
+ {
+  "en": "Compile automatically, silently",
+  "zh": "自动编译，不通知"
+ },
+ {
+  "en": "Compiles while the PC is idle with no notification.",
+  "zh": "电脑空闲时编译，不发送通知。"
+ },
+ {
+  "en": "Compile new shaders right away",
+  "zh": "立即编译新着色器"
+ },
+ {
+  "en": "Automatic compiles start when the game exits, not when the PC is idle.",
+  "zh": "自动编译在游戏退出时开始，而不是电脑空闲时。"
+ },
+ {
+  "en": "Compile new games automatically",
+  "zh": "自动编译新游戏"
+ },
+ {
+  "en": "Games you never compiled compile while the PC is idle, as Add all ready would.",
+  "zh": "从未编译过的游戏会在电脑空闲时编译，等同于“全部添加就绪”。"
+ },
+ {
+  "en": "Pause background compiling while another game is running",
+  "zh": "其他游戏运行时暂停后台编译"
+ },
+ {
+  "en": "Threads for background rebuilds",
+  "zh": "后台重建的线程数"
+ },
+ {
+  "en": "Auto Shader Compilation (NVIDIA beta)",
+  "zh": "自动着色器编译（NVIDIA 测试版）"
+ },
+ {
+  "en": "System utilization",
+  "zh": "系统占用"
+ },
+ {
+  "en": "We recommend enabling it",
+  "zh": "建议开启"
+ },
+ {
+  "en": "Patreon and community database",
+  "zh": "Patreon 与社区数据库"
+ },
+ {
+  "en": "Patreon supporters get the community shader hash database and beta and alpha builds. Sign in with the Patreon account you support SCSKiller with.",
+  "zh": "Patreon 支持者可获得社区着色器哈希数据库以及 beta 和 alpha 版本。请用你支持 SCSKiller 的 Patreon 账号登录。"
+ },
+ {
+  "en": "Sign in with Patreon",
+  "zh": "使用 Patreon 登录"
+ },
+ {
+  "en": "Cancel",
+  "zh": "取消"
+ },
+ {
+  "en": "Finish signing in in your browser. Nothing else is needed here.",
+  "zh": "请在浏览器中完成登录，此处无需其他操作。"
+ },
+ {
+  "en": "Signed in with Patreon",
+  "zh": "已通过 Patreon 登录"
+ },
+ {
+  "en": "Refresh status",
+  "zh": "刷新状态"
+ },
+ {
+  "en": "Sign out",
+  "zh": "退出登录"
+ },
+ {
+  "en": "You're in. Want to help improve the community shader hash database?",
+  "zh": "已登录。愿意帮助改进社区着色器哈希数据库吗？"
+ },
+ {
+  "en": "Share anonymously",
+  "zh": "匿名分享"
+ },
+ {
+  "en": "Not now",
+  "zh": "暂不"
+ },
+ {
+  "en": "Update channel",
+  "zh": "更新通道"
+ },
+ {
+  "en": "Go back to stable now",
+  "zh": "立即切回稳定版"
+ },
+ {
+  "en": "Download shared shader hashes",
+  "zh": "下载共享着色器哈希"
+ },
+ {
+  "en": "Compile your games with hashes other players recorded.",
+  "zh": "用其他玩家录制的哈希来编译你的游戏。"
+ },
+ {
+  "en": "Share diagnostics to help fix problems",
+  "zh": "分享诊断信息以帮助修复问题"
+ },
+ {
+  "en": "When a compile fails, send its error codes, once per compile.",
+  "zh": "编译失败时发送其错误代码，每次编译一次。"
+ },
+ {
+  "en": "Share anonymous shader hashes",
+  "zh": "匿名分享着色器哈希"
+ },
+ {
+  "en": "Share your recorded hashes, GPU model and driver version. Never linked to your account.",
+  "zh": "分享你录制的哈希、GPU 型号和驱动版本，绝不与你的账号关联。"
+ },
+ {
+  "en": "What's shared",
+  "zh": "分享的内容"
+ },
+ {
+  "en": "Compile speed when you run the queue",
+  "zh": "运行队列时的编译速度"
+ },
+ {
+  "en": "GPU to compile for",
+  "zh": "编译所用的 GPU"
+ },
+ {
+  "en": "Pick the GPU your games run on. SCSKiller switches to it after a restart.",
+  "zh": "选择游戏运行所用的 GPU。SCSKiller 会在重启后切换。"
+ },
+ {
+  "en": "Experimental: compile on Intel GPUs",
+  "zh": "实验性：在 Intel GPU 上编译"
+ },
+ {
+  "en": "Only measured on Intel Arc. Applies after a restart.",
+  "zh": "仅在 Intel Arc 上测试过，重启后生效。"
+ },
+ {
+  "en": "Maximum memory for compiling",
+  "zh": "编译可用的最大内存"
+ },
+ {
+  "en": "Maximum memory for compiling (0 = Auto)",
+  "zh": "编译可用的最大内存（0 = 自动）"
+ },
+ {
+  "en": "Maximum mode: also compile every shader pairing",
+  "zh": "最大模式：同时编译所有着色器组合"
+ },
+ {
+  "en": "Seems to help most on AMD. Compiles take longer and use more disk space.",
+  "zh": "对 AMD 效果最明显。编译更慢，占用更多磁盘空间。"
+ },
+ {
+  "en": "Compile ray tracing shaders",
+  "zh": "编译光线追踪着色器"
+ },
+ {
+  "en": "Off: skipped, the game builds them when you turn ray tracing on in it.",
+  "zh": "关闭：跳过，游戏内开启光追时自行构建。"
+ },
+ {
+  "en": "General",
+  "zh": "常规"
+ },
+ {
+  "en": "Closing the window quits SCSKiller",
+  "zh": "关闭窗口即退出 SCSKiller"
+ },
+ {
+  "en": "Before and after recording",
+  "zh": "对照录制"
+ },
+ {
+  "en": "Measure a game cold, compile it, measure it again, and get a report you can share.",
+  "zh": "冷启动测量游戏、编译、再次测量，并生成可分享的报告。"
+ },
+ {
+  "en": "Scan games when SCSKiller starts",
+  "zh": "SCSKiller 启动时扫描游戏"
+ },
+ {
+  "en": "HDD mode",
+  "zh": "机械硬盘模式"
+ },
+ {
+  "en": "Reads a game's files only when you open or compile it.",
+  "zh": "仅在你打开或编译游戏时读取其文件。"
+ },
+ {
+  "en": "Or only for games on these drives:",
+  "zh": "或仅对这些磁盘上的游戏："
+ },
+ {
+  "en": "Send an anonymous daily check",
+  "zh": "发送匿名每日检查"
+ },
+ {
+  "en": "Helps us count active installs so we can size our servers. Once a day, the app's version and GPU vendor, no identifier.",
+  "zh": "帮助我们统计活跃安装量以规划服务器。每天一次，仅含程序版本和 GPU 厂商，不含标识符。"
+ },
+ {
+  "en": "Theme",
+  "zh": "主题"
+ },
+ {
+  "en": "Record in all compatible games",
+  "zh": "在所有兼容游戏中录制"
+ },
+ {
+  "en": "Allow the recorder in games with anti-cheat (at your own risk)",
+  "zh": "允许在含反作弊的游戏中录制（风险自负）"
+ },
+ {
+  "en": "Some games contain anti-cheat that can ban accounts using the recorder. Turn this on to enable it per game, at your own risk. SCSKiller isn't responsible for bans.",
+  "zh": "部分游戏的反作弊会封禁使用录制器的账号。开启后可按游戏启用，风险自负。SCSKiller 不对封号负责。"
+ },
+ {
+  "en": "Details on recording in games with anti-cheat",
+  "zh": "含反作弊游戏录制的详情"
+ },
+ {
+  "en": "Recording limit per game",
+  "zh": "每个游戏的录制上限"
+ },
+ {
+  "en": "Counts the recording in the game's folder and SCSKiller's copy of it. At the limit the game plays as usual: new pipelines just aren't recorded.",
+  "zh": "统计游戏文件夹中的录制及其在 SCSKiller 中的副本。达到上限后游戏照常运行，只是不再录制新管线。"
+ },
+ {
+  "en": "Space by game",
+  "zh": "各游戏占用空间"
+ },
+ {
+  "en": "Removes the recorder from every game and quits. Use it before deleting the AppImage.",
+  "zh": "移除所有游戏中的录制器并退出。删除 AppImage 前请先使用。"
+ },
+ {
+  "en": "Remove recorders",
+  "zh": "移除录制器"
+ },
+ {
+  "en": " Anti-cheat game: only the driver cache is cleared.",
+  "zh": " 含反作弊的游戏：仅清除驱动缓存。"
+ },
+ {
+  "en": " If you have the key, paste it here: it's checked against the game's files and kept on this PC only.",
+  "zh": " 如果你有密钥，请粘贴到此处：它会与游戏文件校验，且仅保存在本机。"
+ },
+ {
+  "en": " Online play isn't possible in that session.",
+  "zh": " 该会话中无法进行在线游玩。"
+ },
+ {
+  "en": " SCSKiller removes its files when the game exits, or after a crash at your next logon.",
+  "zh": " SCSKiller 会在游戏退出时删除其文件，若崩溃则在下次登录时删除。"
+ },
+ {
+  "en": " Steam's Shader Pre-Caching files for it go too, and Steam processes them again.",
+  "zh": " 它在 Steam 的着色器预缓存文件也会一并删除，由 Steam 重新处理。"
+ },
+ {
+  "en": " of play",
+  "zh": " 游玩"
+ },
+ {
+  "en": "0x followed by 64 hex digits",
+  "zh": "0x 加 64 位十六进制字符"
+ },
+ {
+  "en": "2. Close the game. SCSKiller deletes the caches again and compiles the game's shaders.",
+  "zh": "2. 关闭游戏。SCSKiller 会再次清空缓存并编译游戏的着色器。"
+ },
+ {
+  "en": "4. You get a before and after report you can save and share.",
+  "zh": "4. 你会得到一份可保存、可分享的对照报告。"
+ },
+ {
+  "en": "A small d3d11.dll goes next to the game for this recording only, then it's removed.",
+  "zh": "仅在本次录制期间会有一个小的 d3d11.dll 放在游戏旁边，之后会被移除。"
+ },
+ {
+  "en": "A small panel at the top right of the game: the time left, your frame times and, on DirectX 12 and Vulkan, each shader compilation stutter. SCSKiller counts down here either way. It isn't shown with FSR or XeSS frame generation on.",
+  "zh": "游戏右上角的小面板：剩余时间、帧时间，以及在 DirectX 12 和 Vulkan 下每次着色器编译卡顿。无论如何 SCSKiller 都会在此倒计时。开启 FSR 或 XeSS 帧生成时不显示。"
+ },
+ {
+  "en": "AES key",
+  "zh": "AES 密钥"
+ },
+ {
+  "en": "Add a folder of games…",
+  "zh": "添加游戏文件夹…"
+ },
+ {
+  "en": "Add game",
+  "zh": "添加游戏"
+ },
+ {
+  "en": "Add recorder",
+  "zh": "添加录制器"
+ },
+ {
+  "en": "Added by you",
+  "zh": "由你添加"
+ },
+ {
+  "en": "Already in your library",
+  "zh": "已在游戏库中"
+ },
+ {
+  "en": "An upscaler was on (DLSS, FSR or XeSS)",
+  "zh": "开启了超分辨率（DLSS、FSR 或 XeSS）"
+ },
+ {
+  "en": "Anonymous daily check",
+  "zh": "匿名每日检查"
+ },
+ {
+  "en": "Another app is using the clipboard",
+  "zh": "其他应用正在占用剪贴板"
+ },
+ {
+  "en": "Before it records, SCSKiller checks the whole game folder for anti-cheat. ",
+  "zh": "录制前，SCSKiller 会检查整个游戏文件夹是否存在反作弊。"
+ },
+ {
+  "en": "Cancel the before and after recording?",
+  "zh": "取消对照录制？"
+ },
+ {
+  "en": "Change it any time in Settings.",
+  "zh": "随时可在设置中更改。"
+ },
+ {
+  "en": "Clear cache",
+  "zh": "清除缓存"
+ },
+ {
+  "en": "Clear every shader cache?",
+  "zh": "清除所有着色器缓存？"
+ },
+ {
+  "en": "Compile now",
+  "zh": "立即编译"
+ },
+ {
+  "en": "Couldn't add the recorder",
+  "zh": "无法添加录制器"
+ },
+ {
+  "en": "Couldn't add this folder",
+  "zh": "无法添加此文件夹"
+ },
+ {
+  "en": "Couldn't add this game",
+  "zh": "无法添加此游戏"
+ },
+ {
+  "en": "Couldn't change the game's exe",
+  "zh": "无法更改游戏的 exe"
+ },
+ {
+  "en": "Couldn't copy: ",
+  "zh": "复制失败："
+ },
+ {
+  "en": "Couldn't leave out this folder",
+  "zh": "无法排除此文件夹"
+ },
+ {
+  "en": "Couldn't make the share text: ",
+  "zh": "无法生成分享文本："
+ },
+ {
+  "en": "Couldn't open the browser: ",
+  "zh": "无法打开浏览器："
+ },
+ {
+  "en": "Couldn't open the file picker",
+  "zh": "无法打开文件选择器"
+ },
+ {
+  "en": "Couldn't open the folder",
+  "zh": "无法打开文件夹"
+ },
+ {
+  "en": "Couldn't open the folder picker",
+  "zh": "无法打开文件夹选择器"
+ },
+ {
+  "en": "Couldn't open the folder picker: ",
+  "zh": "无法打开文件夹选择器："
+ },
+ {
+  "en": "Couldn't remove the game",
+  "zh": "无法移除游戏"
+ },
+ {
+  "en": "Couldn't rename the game",
+  "zh": "无法重命名游戏"
+ },
+ {
+  "en": "Couldn't save the image: ",
+  "zh": "无法保存图片："
+ },
+ {
+  "en": "Couldn't set the game folder",
+  "zh": "无法设置游戏文件夹"
+ },
+ {
+  "en": "Don't change graphics settings between the two runs.",
+  "zh": "两次运行之间请勿更改画面设置。"
+ },
+ {
+  "en": "Don't compile",
+  "zh": "不编译"
+ },
+ {
+  "en": "Enabling the recorder in these games is at your own risk. SCSKiller isn't responsible for bans.",
+  "zh": "在这些游戏中启用录制器风险自负。SCSKiller 不对封号负责。"
+ },
+ {
+  "en": "Files in use are skipped.",
+  "zh": "正在使用的文件会被跳过。"
+ },
+ {
+  "en": "Frame generation was on",
+  "zh": "开启了帧生成"
+ },
+ {
+  "en": "Frame times stay on this PC. With sharing on, the usual anonymous hashes are sent.",
+  "zh": "帧时间仅保存在本机。开启分享后会发送常规匿名哈希。"
+ },
+ {
+  "en": "Game folder",
+  "zh": "游戏文件夹"
+ },
+ {
+  "en": "Game key",
+  "zh": "游戏密钥"
+ },
+ {
+  "en": "Games installed in it are not listed or read",
+  "zh": "其中安装的游戏不会被列出或读取"
+ },
+ {
+  "en": "Go to game",
+  "zh": "转到游戏"
+ },
+ {
+  "en": "Hidden from your library",
+  "zh": "已从游戏库隐藏"
+ },
+ {
+  "en": "Image and text copied: paste them in Discord",
+  "zh": "图片和文本已复制：可粘贴到 Discord"
+ },
+ {
+  "en": "Image copied",
+  "zh": "图片已复制"
+ },
+ {
+  "en": "Include the app's log lines about this game",
+  "zh": "包含程序日志中关于此游戏的内容"
+ },
+ {
+  "en": "It doesn't open this game's files.",
+  "zh": "它不会打开此游戏的文件。"
+ },
+ {
+  "en": "Its shader caches were cleared, so the game stutters until it's compiled again.",
+  "zh": "其着色器缓存已清除，游戏会卡顿直到重新编译。"
+ },
+ {
+  "en": "Keep going",
+  "zh": "继续"
+ },
+ {
+  "en": "Keep it off",
+  "zh": "保持关闭"
+ },
+ {
+  "en": "Last session",
+  "zh": "上次会话"
+ },
+ {
+  "en": "Leave out a folder…",
+  "zh": "排除文件夹…"
+ },
+ {
+  "en": "Leave out this folder",
+  "zh": "排除此文件夹"
+ },
+ {
+  "en": "Look for games here",
+  "zh": "在此查找游戏"
+ },
+ {
+  "en": "Look for games here again",
+  "zh": "再次在此查找游戏"
+ },
+ {
+  "en": "Max compile for the after run",
+  "zh": "对照运行使用最大编译"
+ },
+ {
+  "en": "Mention it on Discord or GitHub so we can find your report. It's listed on the About page.",
+  "zh": "请在 Discord 或 GitHub 上提及，以便我们找到你的报告。编号列在关于页面。"
+ },
+ {
+  "en": "Mods were installed (for example ReShade, OptiScaler or RenoDX)",
+  "zh": "安装了 Mod（例如 ReShade、OptiScaler 或 RenoDX）"
+ },
+ {
+  "en": "No browser",
+  "zh": "没有可用浏览器"
+ },
+ {
+  "en": "No clipboard",
+  "zh": "没有可用剪贴板"
+ },
+ {
+  "en": "No thanks",
+  "zh": "不用了"
+ },
+ {
+  "en": "Not for games with anti-cheat",
+  "zh": "不适用于含反作弊的游戏"
+ },
+ {
+  "en": "Not for games without shader compilation stutter",
+  "zh": "不适用于没有着色器编译卡顿的游戏"
+ },
+ {
+  "en": "Not sent. Try again later.",
+  "zh": "未发送，请稍后再试。"
+ },
+ {
+  "en": "Nothing new.",
+  "zh": "没有新内容。"
+ },
+ {
+  "en": "Nothing was cleared: no recording of this game was found.",
+  "zh": "未清除任何内容：未找到此游戏的录制。"
+ },
+ {
+  "en": "Nothing was cleared: no shader-cache files of this game were found.",
+  "zh": "未清除任何内容：未找到此游戏的着色器缓存文件。"
+ },
+ {
+  "en": "Once a day SCSKiller can tell our server that an install is active, with its version and GPU vendor and no identifier. ",
+  "zh": "SCSKiller 每天可向我们的服务器报告一次安装处于活跃状态，仅含版本和 GPU 厂商，不含标识符。"
+ },
+ {
+  "en": "Only for DirectX 12 and DirectX 11 games",
+  "zh": "仅适用于 DirectX 12 和 DirectX 11 游戏"
+ },
+ {
+  "en": "Only the name SCSKiller shows changes.",
+  "zh": "仅更改 SCSKiller 显示的名称。"
+ },
+ {
+  "en": "Open SCSKiller",
+  "zh": "打开 SCSKiller"
+ },
+ {
+  "en": "PNG image",
+  "zh": "PNG 图片"
+ },
+ {
+  "en": "Paste (Ctrl+V) to add the image",
+  "zh": "按 Ctrl+V 粘贴以添加图片"
+ },
+ {
+  "en": "Pause compiling",
+  "zh": "暂停编译"
+ },
+ {
+  "en": "Pick the game's own folder, not one that holds other games.",
+  "zh": "请选择游戏自身的文件夹，而非包含其他游戏的上级目录。"
+ },
+ {
+  "en": "Play a sound when the time is up",
+  "zh": "时间到时播放提示音"
+ },
+ {
+  "en": "Play for about 5 minutes, close the game, then add it to the compile queue. You can remove it any time from the game's page.",
+  "zh": "游玩约 5 分钟后关闭游戏，再把它加入编译队列。你随时可以在游戏页面移除它。"
+ },
+ {
+  "en": "Play time",
+  "zh": "游玩时长"
+ },
+ {
+  "en": "Press Ctrl+V in the post to add it.",
+  "zh": "在帖子中按 Ctrl+V 即可添加。"
+ },
+ {
+  "en": "Program (the recorder goes next to it)",
+  "zh": "程序（录制器会放在其旁边）"
+ },
+ {
+  "en": "Record again",
+  "zh": "重新录制"
+ },
+ {
+  "en": "Record offline session",
+  "zh": "录制离线会话"
+ },
+ {
+  "en": "Record session",
+  "zh": "录制会话"
+ },
+ {
+  "en": "Record the after run again?",
+  "zh": "重新录制对照运行？"
+ },
+ {
+  "en": "Recording in games with anti-cheat",
+  "zh": "含反作弊游戏中的录制"
+ },
+ {
+  "en": "Remove and quit",
+  "zh": "移除并退出"
+ },
+ {
+  "en": "Remove recorders?",
+  "zh": "移除录制器？"
+ },
+ {
+  "en": "Removing frees the space. The game is kept again after its next compile.",
+  "zh": "移除可释放空间，游戏在下次编译后会再次保留。"
+ },
+ {
+  "en": "SCSKiller clears the caches and compiles again first, so the new run isn't helped by the last one. Then play the same save again.",
+  "zh": "SCSKiller 会先清空缓存并重新编译，因此本次运行不受上次影响。然后用同一存档再玩一次。"
+ },
+ {
+  "en": "SCSKiller couldn't find this game's key in its exe (protected exes hide it).",
+  "zh": "SCSKiller 无法在 exe 中找到此游戏的密钥（受保护的 exe 会隐藏它）。"
+ },
+ {
+  "en": "SCSKiller forgets the game and takes its recorder out of the game's folder. The game's own files stay, and you can add it again any time.",
+  "zh": "SCSKiller 会忘记该游戏并从游戏文件夹中移除录制器。游戏自身文件保留，你随时可以再次添加。"
+ },
+ {
+  "en": "SCSKiller removes its recorder from every game, then quits. Close your games first: a game that's running keeps its recorder. Recording resumes when SCSKiller starts again.",
+  "zh": "SCSKiller 会移除所有游戏中的录制器然后退出。请先关闭游戏：运行中的游戏会保留录制器。SCSKiller 再次启动后恢复录制。"
+ },
+ {
+  "en": "Send rating",
+  "zh": "发送评价"
+ },
+ {
+  "en": "Sent to the SCSKiller server, kept 90 days and only read to fix the problem.",
+  "zh": "发送至 SCSKiller 服务器，保留 90 天，仅用于修复问题。"
+ },
+ {
+  "en": "Sent with your message",
+  "zh": "随你的消息一起发送"
+ },
+ {
+  "en": "Shader compilation stutter is better, but some stutter remains.",
+  "zh": "着色器编译卡顿有所改善，但仍有部分卡顿。"
+ },
+ {
+  "en": "Shader compilation stutter is gone.",
+  "zh": "着色器编译卡顿已消失。"
+ },
+ {
+  "en": "Share diagnostics",
+  "zh": "分享诊断信息"
+ },
+ {
+  "en": "Share diagnostics to help fix problems?",
+  "zh": "分享诊断信息以帮助修复问题？"
+ },
+ {
+  "en": "Show the countdown in the game",
+  "zh": "在游戏中显示倒计时"
+ },
+ {
+  "en": "Some recorders are still in place",
+  "zh": "仍有录制器未移除"
+ },
+ {
+  "en": "Start the before run",
+  "zh": "开始对照运行"
+ },
+ {
+  "en": "Stop looking",
+  "zh": "停止查找"
+ },
+ {
+  "en": "Stop looking for games here",
+  "zh": "停止在此查找游戏"
+ },
+ {
+  "en": "Stop looking for games here?",
+  "zh": "停止在此查找游戏？"
+ },
+ {
+  "en": "Stopping the compile so the graphics driver can save its shader cache",
+  "zh": "正在停止编译，以便显卡驱动保存着色器缓存"
+ },
+ {
+  "en": "Text copied",
+  "zh": "文本已复制"
+ },
+ {
+  "en": "Thanks, your rating was sent.",
+  "zh": "谢谢，你的评价已发送。"
+ },
+ {
+  "en": "Thanks, your report was sent.",
+  "zh": "谢谢，你的报告已发送。"
+ },
+ {
+  "en": "That key didn't work",
+  "zh": "该密钥无效"
+ },
+ {
+  "en": "The game compiled, but it did not help with the stutter.",
+  "zh": "游戏已编译，但对卡顿没有帮助。"
+ },
+ {
+  "en": "The game could not be compiled.",
+  "zh": "游戏无法编译。"
+ },
+ {
+  "en": "The game had no shader compilation stutter before compiling either.",
+  "zh": "此游戏在编译前也没有着色器编译卡顿。"
+ },
+ {
+  "en": "The game runs worse than before compiling.",
+  "zh": "游戏比编译前更差。"
+ },
+ {
+  "en": "The game will compile shaders during play again until you re-warm it.",
+  "zh": "在你重新预热之前，游戏会在游玩时再次编译着色器。"
+ },
+ {
+  "en": "The game's folder isn't there.",
+  "zh": "游戏文件夹不存在。"
+ },
+ {
+  "en": "The image is copied",
+  "zh": "图片已复制"
+ },
+ {
+  "en": "The recorded pipelines are removed. They're compiled again only if the game creates them again while recording, ",
+  "zh": "已移除录制的管线。仅当游戏在录制时再次创建它们才会重新编译，"
+ },
+ {
+  "en": "The report isn't there anymore: start over.",
+  "zh": "报告已不存在：请重新开始。"
+ },
+ {
+  "en": "This also deletes the game's own shader cache, which isn't backed up and can be 2 GB. The game rebuilds it, which can take minutes.",
+  "zh": "这也会删除游戏自带的着色器缓存，该缓存不会被备份，体积可能达 2 GB，游戏重建它可能需要数分钟。"
+ },
+ {
+  "en": "This helps us count active installs so we can size our servers. It's off until you turn it on.",
+  "zh": "这帮助我们统计活跃安装量以规划服务器。在你开启之前它一直是关闭的。"
+ },
+ {
+  "en": "Turn it on",
+  "zh": "开启"
+ },
+ {
+  "en": "Turn the recorder on for this game first",
+  "zh": "请先为此游戏开启录制器"
+ },
+ {
+  "en": "Use this exe",
+  "zh": "使用此 exe"
+ },
+ {
+  "en": "Use this folder",
+  "zh": "使用此文件夹"
+ },
+ {
+  "en": "Wait for the compile to finish",
+  "zh": "等待编译完成"
+ },
+ {
+  "en": "What happened?",
+  "zh": "发生了什么？"
+ },
+ {
+  "en": "What's sent",
+  "zh": "发送的内容"
+ },
+ {
+  "en": "When a compile fails, send its error codes, once per compile. You can change this in Settings.",
+  "zh": "编译失败时发送其错误代码，每次编译一次。你可以在设置中更改。"
+ },
+ {
+  "en": "With this game's key, SCSKiller compiles it without a recording.",
+  "zh": "有此游戏的密钥，SCSKiller 无需录制即可编译。"
+ },
+ {
+  "en": "You already rated this version of the game. Rating again replaces it.",
+  "zh": "你已评价过此版本的游戏，再次评价会覆盖原评价。"
+ },
+ {
+  "en": "Your current compile for this game is deleted, it's compiled again in step 2.",
+  "zh": "此游戏当前的编译结果会被删除，第 2 步将重新编译。"
+ },
+ {
+  "en": "you added it already",
+  "zh": "你已经添加过了"
+ },
+ {
+  "en": "Close",
+  "zh": "关闭"
+ },
+ {
+  "en": "Save",
+  "zh": "保存"
+ },
+ {
+  "en": "Rename",
+  "zh": "重命名"
+ },
+ {
+  "en": "Free",
+  "zh": "释放"
+ },
+ {
+  "en": "Unlock",
+  "zh": "解锁"
+ },
+ {
+  "en": "Resume",
+  "zh": "继续"
+ },
+ {
+  "en": "Quit",
+  "zh": "退出"
+ },
+ {
+  "en": "Open",
+  "zh": "打开"
+ },
+ {
+  "en": "Send",
+  "zh": "发送"
+ },
+ {
+  "en": "Dismiss",
+  "zh": "忽略"
+ },
+ {
+  "en": "cache cleared",
+  "zh": "缓存已清除"
+ },
+ {
+  "en": "checking its files",
+  "zh": "正在检查其文件"
+ },
+ {
+  "en": "compiles every DirectX 11 shader",
+  "zh": "编译所有 DirectX 11 着色器"
+ },
+ {
+  "en": "couldn't install: Windows Security or another antivirus removed the recorder file",
+  "zh": "安装失败：Windows 安全中心或其他杀毒软件删除了录制器文件"
+ },
+ {
+  "en": "encrypted game files (needs the game's AES key)",
+  "zh": "加密的游戏文件（需要游戏的 AES 密钥）"
+ },
+ {
+  "en": "game folder not confirmed",
+  "zh": "游戏文件夹未确认"
+ },
+ {
+  "en": "in the community database for Patreon supporters",
+  "zh": "在 Patreon 支持者的社区数据库中"
+ },
+ {
+  "en": "needs a recording, once you confirm its game folder",
+  "zh": "需要录制，确认游戏文件夹后即可"
+ },
+ {
+  "en": "needs a recording, which its anti-cheat blocks",
+  "zh": "需要录制，但反作弊会阻止"
+ },
+ {
+  "en": "no recording needed",
+  "zh": "无需录制"
+ },
+ {
+  "en": "no report",
+  "zh": "无报告"
+ },
+ {
+  "en": "not an Unreal Engine game",
+  "zh": "不是虚幻引擎游戏"
+ },
+ {
+  "en": "not checked yet: open it to check",
+  "zh": "尚未检查：打开即可检查"
+ },
+ {
+  "en": "not in the community database yet",
+  "zh": "尚未收录于社区数据库"
+ },
+ {
+  "en": "not supported yet",
+  "zh": "暂不支持"
+ },
+ {
+  "en": "not tested on this engine version yet: playing with recording on improves it",
+  "zh": "尚未在此引擎版本上测试：开启录制游玩可改善"
+ },
+ {
+  "en": "part of this game's compiled shader cache is gone, compile again",
+  "zh": "此游戏的部分已编译着色器缓存已丢失，请重新编译"
+ },
+ {
+  "en": "partly compiled for driver 616.92: the driver refused 180,412 of 258,210 pipelines, so those can still stutter the first time",
+  "zh": "已为驱动 616.92 部分编译：驱动拒绝了 258,210 条管线中的 180,412 条，它们首次运行仍可能卡顿"
+ },
+ {
+  "en": "placed by another SCSKiller copy, so it may still record. Turn it off in that copy to remove it",
+  "zh": "由另一份 SCSKiller 放置，因此可能仍在录制。请在那一份中关闭以移除"
+ },
+ {
+  "en": "planned from a recording",
+  "zh": "依据录制规划"
+ },
+ {
+  "en": "ray tracing needs a 5-min recording",
+  "zh": "光追需要 5 分钟录制"
+ },
+ {
+  "en": "shader groups paired",
+  "zh": "着色器组已配对"
+ },
+ {
+  "en": "shaders cannot be read yet",
+  "zh": "尚无法读取着色器"
+ },
+ {
+  "en": "shaders stored inside materials",
+  "zh": "着色器存于材质内"
+ },
+ {
+  "en": "starts when the PC is idle",
+  "zh": "电脑空闲时开始"
+ },
+ {
+  "en": "the careful compile is for AMD drivers",
+  "zh": "谨慎编译适用于 AMD 驱动"
+ },
+ {
+  "en": "the compile didn't help this game on NVIDIA, it needs a custom loader",
+  "zh": "此游戏在 NVIDIA 上编译无效，需要自定义加载器"
+ },
+ {
+  "en": "turn on recording and play for about 5 minutes",
+  "zh": "开启录制并游玩约 5 分钟"
+ },
+ {
+  "en": "unknown game '",
+  "zh": "未知游戏 '"
+ },
+ {
+  "en": "warmed for driver 610.88",
+  "zh": "已为驱动 610.88 预热"
+ },
+ {
+  "en": " (your choice)",
+  "zh": "（你的选择）"
+ },
+ {
+  "en": " at your own risk?",
+  "zh": "，风险自负？"
+ },
+ {
+  "en": " be compiled?",
+  "zh": " 进行编译？"
+ },
+ {
+  "en": " from the library?",
+  "zh": " 从游戏库移除？"
+ },
+ {
+  "en": " is compiling. Stop it first.",
+  "zh": " 正在编译，请先停止。"
+ },
+ {
+  "en": " is in the list: ",
+  "zh": " 已在列表中："
+ },
+ {
+  "en": " is running",
+  "zh": " 正在运行"
+ },
+ {
+  "en": " minutes count from the game's first frame, loading and pauses included.",
+  "zh": " 分钟从游戏首帧开始计时，含加载与暂停。"
+ },
+ {
+  "en": " offline without EasyAntiCheat?",
+  "zh": " 离线运行（不使用 EasyAntiCheat）？"
+ },
+ {
+  "en": " partly compiled?",
+  "zh": " 部分编译？"
+ },
+ {
+  "en": " ran after SCSKiller compiled it. The rating is anonymous.",
+  "zh": " 在 SCSKiller 编译后运行。评价为匿名。"
+ },
+ {
+  "en": " the new driver no longer uses?",
+  "zh": " 新驱动不再使用的缓存？"
+ },
+ {
+  "en": " uses anti-cheat, so recording is not allowed.",
+  "zh": " 使用了反作弊，因此不允许录制。"
+ },
+ {
+  "en": "'s folder",
+  "zh": " 的文件夹"
+ },
+ {
+  "en": "). It rebuilds it at its next start, which then takes longer.",
+  "zh": "）。它会在下次启动时重建，届时启动更久。"
+ },
+ {
+  "en": ". Refresh the library to see it.",
+  "zh": "。刷新游戏库即可看到。"
+ },
+ {
+  "en": ". Show hidden brings it back.",
+  "zh": "。“显示隐藏项”可将其恢复。"
+ },
+ {
+  "en": "1. SCSKiller deletes this game's shader caches (",
+  "zh": "1. SCSKiller 会删除此游戏的着色器缓存（"
+ },
+ {
+  "en": "3. Load the same save and play the same ",
+  "zh": "3. 载入同一存档并玩同样的 "
+ },
+ {
+  "en": "Also delete ",
+  "zh": "同时删除 "
+ },
+ {
+  "en": "Also delete the game's own shader cache (",
+  "zh": "同时删除游戏自带的着色器缓存（"
+ },
+ {
+  "en": "Always record ",
+  "zh": "始终录制 "
+ },
+ {
+  "en": "An app update is needed for support",
+  "zh": "需要更新应用才能获得支持"
+ },
+ {
+  "en": "Before and after · ",
+  "zh": "编译前与编译后 · "
+ },
+ {
+  "en": "Change it any time in Settings, or turn it off for one game on its page.",
+  "zh": "随时可在设置中更改，或在单个游戏页面中关闭。"
+ },
+ {
+  "en": "Change the AES key for ",
+  "zh": "更改以下游戏的 AES 密钥："
+ },
+ {
+  "en": "Change what happens after a driver update",
+  "zh": "更改驱动更新后的行为"
+ },
+ {
+  "en": "Checking your games after the update. This can take a few minutes.",
+  "zh": "正在检查更新后的游戏，可能需要几分钟。"
+ },
+ {
+  "en": "Clear the recording of ",
+  "zh": "清除以下游戏的录制："
+ },
+ {
+  "en": "Clear the shader cache of ",
+  "zh": "清除以下游戏的着色器缓存："
+ },
+ {
+  "en": "Compiles every combination of this game's shaders, not just each one once. It takes longer and uses more disk space, but potentially fewer shaders compile while you play. Seems to help most on AMD.",
+  "zh": "编译此游戏着色器的所有组合，而非每种仅一次。耗时更久、占用更多磁盘空间，但游玩时需要编译的着色器可能更少。对 AMD 效果最明显。"
+ },
+ {
+  "en": "Couldn't clear the cache: a file is in use",
+  "zh": "无法清除缓存：有文件正在使用"
+ },
+ {
+  "en": "Driver cache",
+  "zh": "驱动缓存"
+ },
+ {
+  "en": "Driver shader cache use",
+  "zh": "驱动着色器缓存占用"
+ },
+ {
+  "en": "EasyAntiCheat blocks the recorder, but you can record at your own risk with an offline session.",
+  "zh": "EasyAntiCheat 会阻止录制器，但你可以通过离线会话自行承担风险地录制。"
+ },
+ {
+  "en": "Enable for all games",
+  "zh": "对所有游戏启用"
+ },
+ {
+  "en": "Finish the sign-in in your browser.",
+  "zh": "请在浏览器中完成登录。"
+ },
+ {
+  "en": "Finishing: writing into the game's cache",
+  "zh": "收尾：正在写入游戏缓存"
+ },
+ {
+  "en": "Frame generation was off in both runs.",
+  "zh": "两次运行均未开启帧生成。"
+ },
+ {
+  "en": "Game's pipeline cache",
+  "zh": "游戏的管线缓存"
+ },
+ {
+  "en": "Game's shader precache",
+  "zh": "游戏的着色器预缓存"
+ },
+ {
+  "en": "Get the stable version",
+  "zh": "获取稳定版"
+ },
+ {
+  "en": "Left out: ",
+  "zh": "已排除："
+ },
+ {
+  "en": "Max compile ",
+  "zh": "最大编译 "
+ },
+ {
+  "en": "Measuring the cache files…\n\n",
+  "zh": "正在测量缓存文件…\n\n"
+ },
+ {
+  "en": "No cache files on disk now.\n\n",
+  "zh": "当前磁盘上没有缓存文件。\n\n"
+ },
+ {
+  "en": "Old driver cache files were in use: close the game and play the before run again",
+  "zh": "旧驱动缓存文件正在使用：请关闭游戏并重新进行对照运行"
+ },
+ {
+  "en": "Other apps and games",
+  "zh": "其他应用与游戏"
+ },
+ {
+  "en": "Rate this compile for ",
+  "zh": "评价以下游戏的本次编译："
+ },
+ {
+  "en": "Recommended for GPUs with more than 8 GB of VRAM.",
+  "zh": "建议用于显存大于 8 GB 的 GPU。"
+ },
+ {
+  "en": "Remove the AES key for ",
+  "zh": "移除以下游戏的 AES 密钥："
+ },
+ {
+  "en": "Removed the last stutters in players' tests.",
+  "zh": "在玩家测试中消除了最后的卡顿。"
+ },
+ {
+  "en": "Report ID ",
+  "zh": "报告编号 "
+ },
+ {
+  "en": "Report a problem with ",
+  "zh": "报告问题："
+ },
+ {
+  "en": "SCSKiller adds a small ",
+  "zh": "SCSKiller 会在游戏旁放置一个小的 "
+ },
+ {
+  "en": "SCSKiller can try to reduce the stutter when a game streams in a new area. Experimental, and only in games with the recorder.",
+  "zh": "SCSKiller 可尝试减少游戏流式加载新区域时的卡顿。实验性功能，仅在启用录制器的游戏中生效。"
+ },
+ {
+  "en": "SCSKiller couldn't start. Details are in ",
+  "zh": "SCSKiller 无法启动。详情见 "
+ },
+ {
+  "en": "SCSKiller found it in ",
+  "zh": "SCSKiller 在以下位置找到："
+ },
+ {
+  "en": "Set the AES key for ",
+  "zh": "设置以下游戏的 AES 密钥："
+ },
+ {
+  "en": "Set the game key for ",
+  "zh": "设置以下游戏的游戏密钥："
+ },
+ {
+  "en": "Signing in or out chose the ",
+  "zh": "登录或退出时选择了 "
+ },
+ {
+  "en": "Tell other players how ",
+  "zh": "告诉其他玩家 "
+ },
+ {
+  "en": "The after recording was 2 min of play. Play at least 3, the game compiles again first.",
+  "zh": "对照录制只有 2 分钟游玩。请至少游玩 3 分钟，游戏会先重新编译。"
+ },
+ {
+  "en": "The compile was stopped. Compile again to go on.",
+  "zh": "编译已停止。重新编译以继续。"
+ },
+ {
+  "en": "The driver changed since the before recording, start over",
+  "zh": "自对照录制以来驱动已变更，请重新开始"
+ },
+ {
+  "en": "The game changed since the recorder was set up. It is set up again: play again.",
+  "zh": "自录制器设置以来游戏已变更，已重新设置：请再玩一次。"
+ },
+ {
+  "en": "The key is deleted from this PC. The compiled cache stays. The next compile plans without the shaders the key unlocked, and if the game's exe holds the key, SCSKiller finds it again.",
+  "zh": "密钥已从本机删除，已编译缓存保留。下次编译将不含密钥解锁的着色器；若游戏 exe 内含密钥，SCSKiller 会再次找到。"
+ },
+ {
+  "en": "The recorder can't run in this game: a mod's DLL is in the recorder's place",
+  "zh": "此游戏中录制器无法运行：录制器位置被某个 Mod 的 DLL 占据"
+ },
+ {
+  "en": "The recorder never loaded in the last launch. Please report it with the game's name.",
+  "zh": "上次启动时录制器未加载，请带上游戏名称反馈。"
+ },
+ {
+  "en": "This Patreon account isn't a backer. Alpha builds come with the backer tier.",
+  "zh": "该 Patreon 账号不是 backer。alpha 版本需要 backer 等级。"
+ },
+ {
+  "en": "This launch started before SCSKiller could attach: nothing was recorded. Try again.",
+  "zh": "本次启动早于 SCSKiller 附加，未录制任何内容。请重试。"
+ },
+ {
+  "en": "What's new in ",
+  "zh": "更新内容："
+ },
+ {
+  "en": "Why can't ",
+  "zh": "为什么无法 "
+ },
+ {
+  "en": "Why is ",
+  "zh": "为什么 "
+ },
+ {
+  "en": "Windows shader cache",
+  "zh": "Windows 着色器缓存"
+ },
+ {
+  "en": "Windows shader cache of earlier compiles",
+  "zh": "更早编译的 Windows 着色器缓存"
+ },
+ {
+  "en": "You removed ",
+  "zh": "你移除了 "
+ },
+ {
+  "en": "Your GPU reports 8 GB of VRAM or less. Games may crash with the fix enabled.",
+  "zh": "你的 GPU 显存为 8 GB 或更少，开启该修复可能导致游戏崩溃。"
+ },
+ {
+  "en": "Your game shader hashes are shared anonymously, never linked to your Patreon account.",
+  "zh": "你的游戏着色器哈希以匿名方式分享，绝不与你的 Patreon 账号关联。"
+ },
+ {
+  "en": "Your tier includes beta builds, not alpha builds.",
+  "zh": "你的等级包含 beta 版本，不含 alpha 版本。"
+ },
+ {
+  "en": "a mod's DLL is in the recorder's place",
+  "zh": "录制器位置被某个 Mod 的 DLL 占据"
+ },
+ {
+  "en": "\n\nClose any game named here, then select Remove recorders again.",
+  "zh": "\n\n请关闭此处列出的游戏，然后再次选择“移除录制器”。"
+ },
+ {
+  "en": "\n\nThe games SCSKiller found only in this folder leave the library. Nothing in the folder changes.",
+  "zh": "\n\nSCSKiller 仅在此文件夹中找到的游戏将移出游戏库，文件夹内容不会改变。"
+ },
+ {
+  "en": "A beta feature of the NVIDIA App: after a driver update it re-compiles the games you have already played. SCSKiller adds everything else, so both together are best. The overlap costs little: shaders NVIDIA already rebuilt take about 1 ms each here.",
+  "zh": "NVIDIA App 的 beta 功能：驱动更新后会重新编译你已玩过的游戏。SCSKiller 补充其余部分，两者结合最佳。重叠代价很小：NVIDIA 已重建的着色器在这里每个约耗时 1 毫秒。"
+ },
+ {
+  "en": "Starts the game offline without EasyAntiCheat. SCSKiller removes its files when the game exits (after a crash: at the next logon). If any are left when you play online, you could be banned. Steam must be running. Don't uninstall SCSKiller mid-session. Online play isn't possible in that session.",
+  "zh": "以离线方式启动游戏且不使用 EasyAntiCheat。SCSKiller 会在游戏退出时删除其文件（若崩溃则在下次登录时）。若在线游玩时仍有残留文件，你可能被封号。Steam 必须正在运行。会话进行中请勿卸载 SCSKiller。该会话中无法在线游玩。"
+ },
+ {
+  "en": "For one session, SCSKiller puts its recorder (a d3d12.dll) next to the game's exe.\n\nGames with anti-cheat can treat the recorder as cheating and ban your account, during the session or later. No game is known to be safe.\n\nSCSKiller removes every file it places when the game exits, or after a crash at your next logon.\n\nEnabling the recorder in these games is at your own risk. SCSKiller isn't responsible for bans.",
+  "zh": "在一次会话中，SCSKiller 会把录制器（d3d12.dll）放到游戏 exe 旁边。\n\n含反作弊的游戏可能将录制器视为作弊并在会话期间或之后封禁你的账号。已知没有任何游戏是安全的。\n\nSCSKiller 会在游戏退出时删除其放置的所有文件，若崩溃则在下次登录时删除。\n\n在这些游戏中启用录制器风险自负，SCSKiller 不对封号负责。"
+ },
+ {
+  "en": "The recorded pipelines are removed. They're compiled again only if the game creates them again while recording, and the compile plan goes back to what the game's files give.\n\nThe recorder itself stays in, and the game's files aren't touched.",
+  "zh": "已移除录制的管线。仅当游戏在录制时再次创建它们才会重新编译，编译计划会回到游戏文件本身提供的范围。\n\n录制器本身保留，游戏文件不受影响。"
+ },
+ {
+  "en": "Warmed",
+  "zh": "已预热"
+ },
+ {
+  "en": "Partly warmed",
+  "zh": "部分预热"
+ },
+ {
+  "en": "Warmed (recorded pipelines only)",
+  "zh": "已预热（仅录制管线）"
+ },
+ {
+  "en": "Ready to compile",
+  "zh": "可编译"
+ },
+ {
+  "en": "Needs rebuilding",
+  "zh": "需要重新编译"
+ },
+ {
+  "en": "Needs a recording",
+  "zh": "需要录制"
+ },
+ {
+  "en": "Needs a 5-min recording",
+  "zh": "需要 5 分钟录制"
+ },
+ {
+  "en": "Needs an offline session",
+  "zh": "需要离线会话"
+ },
+ {
+  "en": "Start it once from Steam",
+  "zh": "先从 Steam 启动一次"
+ },
+ {
+  "en": "Partly compiled",
+  "zh": "部分编译"
+ },
+ {
+  "en": "The compile didn't help",
+  "zh": "编译没有帮助"
+ },
+ {
+  "en": "Not reached yet",
+  "zh": "尚未覆盖"
+ },
+ {
+  "en": "Checking…",
+  "zh": "检查中…"
+ },
+ {
+  "en": "Not checked",
+  "zh": "未检查"
+ },
+ {
+  "en": "Not compatible",
+  "zh": "不兼容"
+ },
+ {
+  "en": "Needs Proton",
+  "zh": "需要 Proton"
+ },
+ {
+  "en": "Not compiled",
+  "zh": "未编译"
+ },
+ {
+  "en": "Encrypted game files",
+  "zh": "游戏文件已加密"
+ },
+ {
+  "en": "Not supported",
+  "zh": "不支持"
+ },
+ {
+  "en": "Not supported yet",
+  "zh": "暂不支持"
+ },
+ {
+  "en": "Compiled",
+  "zh": "已编译"
+ },
+ {
+  "en": "Compiles",
+  "zh": "编译"
+ },
+ {
+  "en": "Compiled by SCSKiller",
+  "zh": "由 SCSKiller 编译"
+ },
+ {
+  "en": "All games",
+  "zh": "所有游戏"
+ },
+ {
+  "en": "Game",
+  "zh": "游戏"
+ },
+ {
+  "en": "Pipelines",
+  "zh": "管线"
+ },
+ {
+  "en": "Play",
+  "zh": "开始游戏"
+ },
+ {
+  "en": "Running",
+  "zh": "运行中"
+ },
+ {
+  "en": "In queue",
+  "zh": "已在队列"
+ },
+ {
+  "en": "Add to queue",
+  "zh": "加入队列"
+ },
+ {
+  "en": "Compile",
+  "zh": "编译"
+ },
+ {
+  "en": "Compile carefully",
+  "zh": "谨慎编译"
+ },
+ {
+  "en": "Compile without ray tracing (partial)",
+  "zh": "编译（不含光追，部分）"
+ },
+ {
+  "en": "Add all ready",
+  "zh": "添加全部就绪"
+ },
+ {
+  "en": "Add all recommended",
+  "zh": "添加全部推荐"
+ },
+ {
+  "en": "Coverage",
+  "zh": "覆盖率"
+ },
+ {
+  "en": "covered",
+  "zh": "已覆盖"
+ },
+ {
+  "en": "not yet",
+  "zh": "尚未"
+ },
+ {
+  "en": "not used",
+  "zh": "未使用"
+ },
+ {
+  "en": "Compile time",
+  "zh": "编译耗时"
+ },
+ {
+  "en": "Compile time (estimate)",
+  "zh": "编译耗时（估计）"
+ },
+ {
+  "en": "Disk space",
+  "zh": "磁盘占用"
+ },
+ {
+  "en": "Disk space (estimate)",
+  "zh": "磁盘占用（估计）"
+ },
+ {
+  "en": "Found in the game files",
+  "zh": "来自游戏文件"
+ },
+ {
+  "en": "DirectX 12, from the game files",
+  "zh": "DirectX 12，来自游戏文件"
+ },
+ {
+  "en": "Clear cache (",
+  "zh": "清除缓存 ("
+ },
+ {
+  "en": "cache complete, ",
+  "zh": "缓存已完成，"
+ },
+ {
+  "en": ", for driver ",
+  "zh": "，驱动版本 "
+ },
+ {
+  "en": "Last rebuilt for driver ",
+  "zh": "上次重建用于驱动 "
+ },
+ {
+  "en": "warmed for driver ",
+  "zh": "已预热，驱动 "
+ },
+ {
+  "en": "partly warmed for driver ",
+  "zh": "已部分预热，驱动 "
+ },
+ {
+  "en": "partly compiled for driver ",
+  "zh": "已部分编译，驱动 "
+ },
+ {
+  "en": " (driver default)",
+  "zh": "（驱动默认）"
+ },
+ {
+  "en": " per game",
+  "zh": " 每款游戏"
+ },
+ {
+  "en": "Free on ",
+  "zh": "可用空间 "
+ },
+ {
+  "en": " upscalers",
+  "zh": " 个超分"
+ },
+ {
+  "en": "Stops this game compiling",
+  "zh": "会阻止此游戏编译"
+ },
+ {
+  "en": "Compiled through your mod",
+  "zh": "已通过你的 Mod 编译"
+ },
+ {
+  "en": "A few modded shaders aren't precompiled",
+  "zh": "少量 Mod 着色器未预编译"
+ },
+ {
+  "en": "Changes no pipelines",
+  "zh": "不改变管线"
+ },
+ {
+  "en": "Your recording and the community database",
+  "zh": "你的录制与社区数据库"
+ },
+ {
+  "en": "Its upscalers, learned from recordings",
+  "zh": "其超分，来自录制的学习"
+ },
+ {
+  "en": "Stutters last time you played",
+  "zh": "上次游玩时的卡顿"
+ },
+ {
+  "en": "No anti-cheat",
+  "zh": "无反作弊"
+ },
+ {
+  "en": "Also compiles: ",
+  "zh": "同时编译："
+ },
+ {
+  "en": "Auto (DirectX 12)",
+  "zh": "自动（DirectX 12）"
+ },
+ {
+  "en": "Auto (DirectX 11)",
+  "zh": "自动（DirectX 11）"
+ },
+ {
+  "en": "Users with a similar system reported that compiling removed or reduced the stutter in this game.",
+  "zh": "配置相近的用户反馈，编译后此游戏的卡顿消失或减轻。"
+ },
+ {
+  "en": "NVIDIA shader cache size",
+  "zh": "NVIDIA 着色器缓存大小"
+ },
+ {
+  "en": "Global driver setting, the same one as NVIDIA App › Graphics › Shader Cache Size. When the cache is full the driver deletes older entries, and those games stutter again.",
+  "zh": "全局驱动设置，与 NVIDIA App › 图形 › 着色器缓存大小相同。缓存满时驱动会删除较早的条目，那些游戏又会卡顿。"
+ },
+ {
+  "en": "A notification offers Compile now, when idle, or skip. Nothing starts on its own.",
+  "zh": "通知中提供“立即编译 / 空闲时 / 跳过”。不会自动开始。"
+ },
+ {
+  "en": "Stops the moment you touch the mouse or keyboard and picks up where it left off.",
+  "zh": "你一碰鼠标或键盘就会暂停，之后从断点继续。"
+ },
+ {
+  "en": "The list of games it covers is checked for everyone. The shared hashes need a Patreon subscription.",
+  "zh": "它覆盖的游戏名单会对所有人校验。共享哈希需要 Patreon 订阅。"
+ },
+ {
+  "en": "Below-normal priority",
+  "zh": "低于正常优先级"
+ },
+ {
+  "en": "threads",
+  "zh": "线程"
+ },
+ {
+  "en": "Driver default limit may evict games",
+  "zh": "驱动默认上限可能挤出游戏"
+ },
+ {
+  "en": "Recommended to compile",
+  "zh": "建议编译"
+ },
+ {
+  "en": "stutters without a compile",
+  "zh": "未编译会卡顿"
+ },
+ {
+  "en": "compiled",
+  "zh": "已编译"
+ },
+ {
+  "en": "Driver ",
+  "zh": "驱动 "
+ },
+ {
+  "en": "Total",
+  "zh": "总计"
+ },
+ {
+  "en": "Used",
+  "zh": "已用"
+ },
+ {
+  "en": "Version",
+  "zh": "版本"
+ },
+ {
+  "en": "Folders",
+  "zh": "文件夹"
+ },
+ {
+  "en": "Recordings",
+  "zh": "录制"
+ },
+ {
+  "en": "Problems",
+  "zh": "问题"
+ },
+ {
+  "en": "Search",
+  "zh": "搜索"
+ },
+ {
+  "en": "Searching",
+  "zh": "搜索中"
+ },
+ {
+  "en": "Refreshing",
+  "zh": "刷新中"
+ },
+ {
+  "en": "Waiting",
+  "zh": "等待中"
+ },
+ {
+  "en": "Warning",
+  "zh": "警告"
+ },
+ {
+  "en": "Error",
+  "zh": "错误"
+ },
+ {
+  "en": "Hidden",
+  "zh": "已隐藏"
+ },
+ {
+  "en": "Idle",
+  "zh": "空闲"
+ },
+ {
+  "en": "Playing",
+  "zh": "游玩中"
+ },
+ {
+  "en": "Store",
+  "zh": "商店"
+ },
+ {
+  "en": "Add all ready (",
+  "zh": "添加全部就绪 ("
+ },
+ {
+  "en": "Add all recommended (",
+  "zh": "添加全部推荐 ("
+ },
+ {
+  "en": "Compile queue (",
+  "zh": "编译队列 ("
+ },
+ {
+  "en": "Ask me first",
+  "zh": "先问我"
+ },
+ {
+  "en": "driver ",
+  "zh": "驱动 "
+ },
+ {
+  "en": "Compiles through ",
+  "zh": "编译经由 "
+ },
+ {
+  "en": "Turn on Record and play",
+  "zh": "开启“录制”再游玩"
+ },
+ {
+  "en": "Last compile",
+  "zh": "上次编译"
+ },
+ {
+  "en": "Global driver setting. ",
+  "zh": "全局驱动设置。"
+ },
+ {
+  "en": "Global driver setting, the same one as NVIDIA App › Graphics › Shader Cache Size. ",
+  "zh": "全局驱动设置，与 NVIDIA App › 图形 › 着色器缓存大小相同。"
+ },
+ {
+  "en": "When the cache is full the driver deletes older entries, and those games stutter again.",
+  "zh": "缓存满时驱动会删除较早的条目，那些游戏又会卡顿。"
+ },
+ {
+  "en": "When the cache is full the driver deletes older entries. Kept games are put back.",
+  "zh": "缓存满时驱动会删除较早的条目，已备份的游戏会被放回。"
+ },
+ {
+  "en": "Each game has a cache of its own. When it's full the driver deletes that game's older files, and it stutters again.",
+  "zh": "每款游戏有自己的缓存。缓存满时驱动会删除该游戏较旧的文件，游戏又会卡顿。"
+ },
+ {
+  "en": "16 GB (driver default)",
+  "zh": "16 GB（驱动默认）"
+ },
+ {
+  "en": "Fewer threads = slower compile, quieter PC.",
+  "zh": "线程越少，编译越慢，电脑越安静。"
+ },
+ {
+  "en": "Its last compile was for driver ",
+  "zh": "上次编译使用了驱动 "
+ },
+ {
+  "en": " of it is in the driver cache",
+  "zh": " 已在驱动缓存中"
+ },
+ {
+  "en": "The driver removed part of it. Put back when you press Play.",
+  "zh": "驱动删除了其中一部分，按“开始游戏”时会放回。"
+ },
+ {
+  "en": "Estimated driver cache if compiled",
+  "zh": "编译后的驱动缓存估计"
+ },
+ {
+  "en": " driver updated",
+  "zh": " 驱动已更新"
+ },
+ {
+  "en": "It waits in the background to offer a rebuild after a driver update.",
+  "zh": "它在后台等待，驱动更新后提示重建。"
+ },
+ {
+  "en": "It waits in the notification area, next to the clock, to offer a rebuild after a driver update.",
+  "zh": "它驻留在通知区域（时钟旁），驱动更新后提示重建。"
+ },
+ {
+  "en": "Nearly full: the driver removes the least recently used games' caches when a game starts",
+  "zh": "接近满：游戏启动时驱动会删除最久未使用的游戏缓存"
+ },
+ {
+  "en": ". Nearly full: the driver removes the least recently used games' caches when a game starts.",
+  "zh": "。接近满：游戏启动时驱动会删除最久未使用的游戏缓存。"
+ },
+ {
+  "en": "The Intel driver keeps up to ",
+  "zh": "Intel 驱动最多保留 "
+ },
+ {
+  "en": " of shaders per game, with no size setting. Past it, the driver drops that game's older shaders, so SCSKiller compiles the most likely ones first.",
+  "zh": " 个着色器（每款游戏），没有大小设置。超过后驱动会丢弃该游戏较旧的着色器，所以 SCSKiller 先编译最可能用到的。"
+ },
+ {
+  "en": "The current driver hasn't used these files since it was installed. Nothing needs to compile again.",
+  "zh": "当前驱动自安装以来未使用这些文件，无需重新编译任何内容。"
+ },
+ {
+  "en": "Written before the current driver was installed on ",
+  "zh": "写入于当前驱动安装之前："
+ },
+ {
+  "en": " of cache files are from before the current driver was installed on ",
+  "zh": " 的缓存文件来自当前驱动安装之前："
+ },
+ {
+  "en": "SCSKiller learns this game's driver cache files the first time it compiles it or sees it running",
+  "zh": "SCSKiller 在首次编译或看到此游戏运行时学习其驱动缓存文件"
+ },
+ {
+  "en": " already in the driver cache, ",
+  "zh": " 已在驱动缓存中，"
+ },
+ {
+  "en": " ray-traced pipelines the driver partly recompiles every launch",
+  "zh": " 条光追管线，驱动每次启动都会部分重编译"
+ },
+ {
+  "en": " the driver partly recompiles every launch.",
+  "zh": " 驱动每次启动都会部分重编译。"
+ },
+ {
+  "en": " threads, so the driver keeps more of them. The rest compile at full speed.",
+  "zh": " 线程，这样驱动能保留更多。其余以全速编译。"
+ },
+ {
+  "en": " skipped: the GPU driver crashed or hung on ",
+  "zh": " 已跳过：GPU 驱动在以下管线崩溃或挂起 "
+ },
+ {
+  "en": "% of the shader combinations found in this game",
+  "zh": "% 的游戏内着色器组合"
+ },
+ {
+  "en": " all the shader combinations found in this game",
+  "zh": " 的全部游戏内着色器组合"
+ },
+ {
+  "en": "Shader combinations found",
+  "zh": "找到的着色器组合"
+ },
+ {
+  "en": " of disk space.",
+  "zh": " 的磁盘空间。"
+ },
+ {
+  "en": "Installed shaders",
+  "zh": "已安装着色器"
+ },
+ {
+  "en": "Fastest: uses every core",
+  "zh": "最快：使用全部核心"
+ },
+ {
+  "en": "quiet, slower",
+  "zh": "安静，较慢"
+ },
+ {
+  "en": " shader cache size",
+  "zh": " 着色器缓存大小"
+ },
+ {
+  "en": "Pause",
+  "zh": "暂停"
+ },
+ {
+  "en": "Before and after",
+  "zh": "对照录制"
+ },
+ {
+  "en": "Some shaders still compile while you play",
+  "zh": "游玩时仍有着色器需要编译"
+ },
+ {
+  "en": "A few effects are only put together while you play. A short recording picks them up.",
+  "zh": "少数效果只有游玩时才会组合，短暂录制即可捕获。"
+ },
+ {
+  "en": "Adds a small d3d12.dll next to the game to catch anything the plan missed and time each frame, so this page shows what stuttered. Remove any time. If a game has anti-cheat SCSKiller didn't detect, don't turn this on.",
+  "zh": "在游戏旁放置一个小 d3d12.dll，捕获计划遗漏的内容并记录每帧耗时，本页因此能显示卡顿。可随时移除。若游戏含有 SCSKiller 未检测到的反作弊，请勿开启。"
+ },
+ {
+  "en": "May reduce stutter when the game loads a new area. Recommended for GPUs with more than 8 GB of VRAM.",
+  "zh": "可减少游戏加载新区域时的卡顿。建议显存大于 8 GB 的 GPU 使用。"
+ },
+ {
+  "en": "Play with it on and your last session shows here: how much was ready and what still stuttered.",
+  "zh": "开启后游玩，上次会话会显示在这里：准备了多少、还有哪些卡顿。"
+ },
+ {
+  "en": "Recorder ",
+  "zh": "录制器 "
+ },
+ {
+  "en": "compiled for ",
+  "zh": "已为 "
+ },
+ {
+  "en": "plan is built first",
+  "zh": "稍后生成计划"
+ },
+ {
+  "en": "After this queue the cache is close to its ",
+  "zh": "本次队列结束后缓存将接近其 "
+ },
+ {
+  "en": "Checking games for more to compile",
+  "zh": "正在检查是否有更多可编译内容"
+ },
+ {
+  "en": "Windows 10's DirectX 12 can't compile this game's Shader Model ",
+  "zh": "Windows 10 的 DirectX 12 无法编译此游戏的着色器模型 "
+ },
+ {
+  "en": " skipped (shader not in this install's ",
+  "zh": " 已跳过（着色器不在本次安装的 "
+ },
+ {
+  "en": " skipped: not in this install",
+  "zh": " 已跳过：不在本次安装中"
+ },
+ {
+  "en": " started (pid ",
+  "zh": " 已启动（PID "
+ },
+ {
+  "en": "Paused: ",
+  "zh": "已暂停："
+ },
+ {
+  "en": "Use default (",
+  "zh": "使用默认 ("
+ },
+ {
+  "en": "Before and after recording is off in Settings",
+  "zh": "设置中已关闭对照录制"
+ },
+ {
+  "en": " games · about ",
+  "zh": " 款游戏 · 约 "
+ },
+ {
+  "en": " in total",
+  "zh": " 总计"
+ },
+ {
+  "en": "Nothing recorded yet. Play with the recorder on and your last session shows here.",
+  "zh": "尚无录制。开启录制后游玩，上次会话会显示在这里。"
+ },
+ {
+  "en": "DirectX 12, DirectX 11",
+  "zh": "DirectX 12、DirectX 11"
+ },
+ {
+  "en": "This game runs on an engine SCSKiller doesn't read yet, so it can only compile from a recording.",
+  "zh": "此游戏的引擎 SCSKiller 还无法读取，因此只能依据录制来编译。"
+ },
+ {
+  "en": " the new driver no longer uses",
+  "zh": " 新驱动已不再使用"
+ },
+ {
+  "en": " through ",
+  "zh": " 经由 "
+ },
+ {
+  "en": " · stutters without a compile · ",
+  "zh": " · 未编译会卡顿 · "
+ },
+ {
+  "en": " · stutters without a compile",
+  "zh": " · 未编译会卡顿"
+ },
+ {
+  "en": "Play through ",
+  "zh": "通过此方式启动："
+ },
+ {
+  "en": "A notification offers compile now, when idle, or skip. Nothing starts on its own.",
+  "zh": "通知中提供“立即编译 / 空闲时 / 跳过”，不会自动开始。"
+ }
+]
