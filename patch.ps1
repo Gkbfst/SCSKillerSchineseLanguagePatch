@@ -63,6 +63,17 @@ $table = [System.Collections.Generic.Dictionary[string, string]]::new([StringCom
 foreach ($r in $rows) { if ($r.en -and $r.zh) { $table[$r.en] = $r.zh } }
 Say ("译表条目：{0}" -f $table.Count) 'DarkGray'
 
+# 1.4.5 起，部分文本同时被当作布局标识使用（列宽共享组名、样式类名、InfoBar 级别等），
+# Avalonia 会校验这些值，必须是 ASCII 标识符，因此保持英文。
+$skipTable = @{
+    'SCSKiller.dll' = @(
+        'Shaders', 'Pipelines', 'Cache', 'Time', 'Status', 'Filters', 'Scan',
+        'Natural', 'Clear', 'Search', 'Details', 'Priority', 'Error', 'Warning',
+        'Narrow', 'Stacked', 'Loose', 'Cards', 'Table', 'Columns', 'Rows', 'Split', 'Side'
+    )
+    'SCSKiller.Core.dll' = @('Priority')
+}
+
 # 3. PE / 元数据解析
 function Get-Offsets([byte[]]$b) {
     $e = [BitConverter]::ToInt32($b, 0x3C)
@@ -160,8 +171,11 @@ foreach ($t in $targets) {
     if ($env:SCSKILLER_PATCH_DEBUG) { Say ("  {0}: #US 0x{1:X} 长度 {2}，解析出 {3} 条字符串" -f $t, $layout.us, $layout.size, $entries.Count) 'DarkGray' }
 
     $applied = 0; $tooLong = 0
+    $skip = [System.Collections.Generic.HashSet[string]]::new([StringComparer]::Ordinal)
+    if ($skipTable.ContainsKey($t)) { foreach ($s in $skipTable[$t]) { [void]$skip.Add($s) } }
     foreach ($kv in $entries.GetEnumerator()) {
         $k = $kv.Key
+        if ($skip.Contains($k)) { continue }
         if (-not $table.ContainsKey($k)) { continue }
         $zh = $table[$k]
         $e = $kv.Value
